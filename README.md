@@ -1,2 +1,2 @@
 # Ionosphere
-The knowledge of ionosphere 
+关于电离层的一些知识，会放一点数据、文档以及代码，方便大家一起学习，奥利给！
